@@ -1,0 +1,3 @@
+The original court recordings are stored in https://github.com/jeffohrt/DieDec-Court-VOX
+They are very large and can only be played (with the included VOX player) on a Windows machince.
+Don't ask me ... that's how the courts gave them to me.
