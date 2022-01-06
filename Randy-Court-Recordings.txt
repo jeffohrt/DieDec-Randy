@@ -1,17 +1,31 @@
 
-The original court recordings were given to me as VOX files, with an included VOX player on CD.
+The original court recordings were given to me as VOX files, with an included VOX player on CDs.
 These files are simply too large to post the originals.
 These files require some technical skills to download, install and use the player.
 Some people don't have these skills.
 
+CD's of the original VOX files can be purchased at the Bridgewater Courthouse.
+That's where and how I got them.
+
 
 https://github.com/jeffohrt/DieDec-Randy-Court-M4A
 --------------------------------------------------
-The original VOX recordings  could not be posted to the repo because of their size and complexity of use.
+The original VOX recordings could not be posted to the repo because of their size and complexity of use.
 Converting them to MP4 cost too much money.
 So I set one machine to play and another to record.
 There's an echo but they are M4A - the preferred format for Apple machines.
 The July 22nd court date file was too large and I split it into 3, 1 hr files.
 That was still too large, so I split them into 1 file per witness.
 
-M4A files can be dragged and dropped into a browser to listen to them.
+M4A files can be dragged and dropped into a browser to listen to them (if you don't have a music player app).
+
+
+https://github.com/jeffohrt/DieDec-Randy-Court-MP3
+--------------------------------------------------
+
+On the off chance some people can't play an M4A file, I've converted them to MP3.
+
+The M4A files are copies of the original.
+The MP3 files are copies of copies.
+
+MP3 files can be dragged and dropped into a browser to listen to them (if you don't have a music player app).
