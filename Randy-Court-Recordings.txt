@@ -1,15 +1,17 @@
-https://github.com/jeffohrt/DieDec-Randy-Court-VOX
---------------------------------------------------
-The original court recordings are stored in https://github.com/jeffohrt/DieDec-Randy-Court-VOX
-They are very large and can only be played (with the included VOX player) on a Windows machince.
-Don't ask me ... that's how the courts gave them to me.
+
+The original court recordings were given to me as VOX files, with an included VOX player on CD.
+These files are simply too large to post the originals.
+These files require some technical skills to download, install and use the player.
+Some people don't have these skills.
 
 
 https://github.com/jeffohrt/DieDec-Randy-Court-M4A
 --------------------------------------------------
-The original VOX recordings require technical skills to play back (installing, navigating and operating a VOX player)
+The original VOX recordings  could not be posted to the repo because of their size and complexity of use.
 Converting them to MP4 cost too much money.
 So I set one machine to play and another to record.
 There's an echo but they are M4A - the preferred format for Apple machines.
 The July 22nd court date file was too large and I split it into 3, 1 hr files.
 That was still too large, so I split them into 1 file per witness.
+
+M4A files can be dragged and dropped into a browser to listen to them.
