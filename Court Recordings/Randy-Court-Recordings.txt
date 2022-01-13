@@ -7,14 +7,20 @@ CD's of the original VOX files can be purchased at the Bridgewater Courthouse.
 That's where and how I got them.
 
 --------------------------------------------------
+
 The original VOX recordings could not be posted to the repo because of their size and complexity of use.
-Converting them to MP4 cost too much money.
+Converting them directly to MP4 cost too much money.
 So I set one machine to play and another to record.
 There's an echo but they are M4A - the preferred format for Apple machines.
-The July 22nd court date file was too large VOX or the courthouse split it into 3, 1 hr files.
-That was still too large and it cost money to split M4A files.  I did not have an app to do it.
+The July 22nd court date file was too large. VOX or the courthouse split it into 3, 1 hr files.
+
+It took a long time to find a free way to split M4A files.  The split was arbitrary - at the 20ish minute mark, during a silence.
+
+This made 20ish minute M4A files - that's an Apple thing - and small enough to post to the repo.
 
 The M4A files were converted to MP3 by a free service on the internet.
+
+MP3 should be playable anywhere (Mac or Windows).
 
 --------------------------------------------------
 
@@ -24,4 +30,4 @@ The MP3 files are copies of copies.
 
 The MP3 files are still too large to upload to the repo and had to be split again.
 
-MP3 files can be dragged and dropped into a browser to listen to them (if you don't have a music player app).
+M4A and MP3 files can be dragged and dropped into a browser to listen to them (if you don't have a music player app).
